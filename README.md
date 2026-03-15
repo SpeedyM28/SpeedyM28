@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jamil 👋
 
-<!--
-**SpeedyM28/SpeedyM28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer specializing in healthcare API integration, workflow automation, and AI-powered systems.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Python, JavaScript, SQL  
+**Frameworks:** Node.js, React, Next.js, LangGraph  
+**Specializations:** Healthcare APIs (FHIR, Epic, eCW), OAuth2, Web Scraping, Workflow Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Epic FHIR Integration](https://github.com/SpeedyM28/epic-fhir-integration)** - OAuth2 authentication system for Epic's healthcare API using RS384-signed JWTs
+- **[Monaqasat Data Extractor](https://github.com/SpeedyM28/monaqasat-data-extractor)** - Competitive intelligence tool for government procurement tracking
+- **[News Headline Analyzer](https://github.com/SpeedyM28/news-headline-analyzer)** - AI-powered classification using LangGraph and GPT-3.5
+- **[eCW SMART Launch](https://github.com/SpeedyM28/ecw-emr-launch)** - SMART on FHIR implementation for eClinicalWorks
+
+## 🌐 Connect
+- **Portfolio:** [jamil-bitar-engineer.vercel.app](https://jamil-bitar-engineer.vercel.app)
+- **LinkedIn:** [linkedin.com/in/jamil-bitar](https://linkedin.com/in/jamil-bitar)
+- **Email:** your-business-email@example.com
+
+## 💼 Currently
+Backend Developer at Rinova AI | Open to remote opportunities and contract work
+
+---
+
+*Based in Qatar • Fluent in Arabic, English; Conversational in Spanish*
