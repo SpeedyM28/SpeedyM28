@@ -16,7 +16,7 @@ Backend developer specializing in healthcare API integration, workflow automatio
 ## 🌐 Connect
 - **Portfolio:** [jamil-bitar-engineer.vercel.app](https://jamil-bitar-engineer.vercel.app)
 - **LinkedIn:** [linkedin.com/in/jamil-bitar](https://linkedin.com/in/jamil-bitar)
-- **Email:** your-business-email@example.com
+- **Email:** business.with.jamil@gmail.com
 
 ## 💼 Currently
 Backend Developer at Rinova AI | Open to remote opportunities and contract work
